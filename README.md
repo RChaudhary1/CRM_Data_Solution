@@ -9,7 +9,7 @@ The team wants to find the month they're likely to contact the most clients, so 
 I solved this problem by two methods:
 
 1) MS Excel
-2) Jupyter Notebook with Python 3. Also used data maipulation/visulization libraries like pandas and bokeh.
+2) Jupyter Notebook with Python 3. Also used data maipulation/visualization libraries like pandas and bokeh.
 
 ## Solution
 Answer I got from both methods is the same: **October** is the month team tends to contact the greatest percentage of its clients. This observation can help the team to schedule a product upgrade announcement.
