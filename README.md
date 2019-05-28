@@ -15,4 +15,4 @@ I solved this problem by two methods:
 Answer I got from both methods is the same: **October** is the month team tends to contact the greatest percentage of its clients. This observation can help the team to schedule a product upgrade announcement.
 
 ## Note:
-There are comments in Jupyter notebook itself and for excel there is a README.md file to elaborate the process and observations.
+There are comments in Jupyter notebook itself and excel. Also, there are README.md files to elaborate the process and observations.
