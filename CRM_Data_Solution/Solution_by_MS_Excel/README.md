@@ -1,5 +1,6 @@
+# Process involved in solving the problem and observations
 
-Steps:
+## Steps:
 Extracted Day, Month, Month Name and Year from the Date of Contact column.
 Created a Pivot table on using the dataset to calculate the Count of Clinets Contacted in a month.
 Created another pivot table to calculate count of unique clients contacted in a month. (Changed value field settings in the pivot table settings to change the 'Summarized value field by' from 'count' to 'distinct count')
@@ -11,7 +12,7 @@ Created following graphs in the dashboard sheet of the workbook:
 
 
 
-Result:
+## Result:
 
 Maximum contacts in a month (October) - 213 (21%)
 Maximum distinct clients contacted in a month (October) - 35 
